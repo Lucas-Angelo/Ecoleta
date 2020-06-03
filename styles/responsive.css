@@ -21,6 +21,14 @@
         align-items: center;
     }
 
+    #page-search-results .cards{
+        grid-template-columns: 1fr;
+    }
+
+    #page-search-results .card img{
+        height: 200px;
+    }
+
 }
 
 @media (min-width: 1700px){
