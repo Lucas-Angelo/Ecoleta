@@ -1,0 +1,27 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "![Index](https://raw.githubusercontent.com/Lucas-Angelo/Ecoleta/master/imgs/index.png \"Index\")\r  1. [Introdução e arquivos aula 1](https://www.notion.so/Dia-1-7c8a1a9a6df547058f1473f899a3b9c4)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Angelo/Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "Lucas Ângelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-Angelo/Ecoleta/issues"
+  },
+  "homepage": "https://github.com/Lucas-Angelo/Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
