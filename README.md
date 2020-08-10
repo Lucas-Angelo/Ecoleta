@@ -13,8 +13,6 @@
   <a href="https://rocketseat.com.br">
     <img src="https://img.shields.io/badge/Made%20by-Rocketseat-brightgreen&style=flat&logo">
   </a>
-  <a>
-  <img src="https://img.shields.io/github/license/Suburbanno/Ecoleta?style=flat&logo">
 </p>
 
 ## 🔖 Sobre
